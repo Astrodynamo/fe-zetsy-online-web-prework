@@ -47,3 +47,12 @@ header a {
 	text-decoration: none;
 }
 
+#about img {
+	border: 5px rgb(152,173,166) solid;
+}
+
+#about a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
